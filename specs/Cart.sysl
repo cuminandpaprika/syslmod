@@ -1,0 +1,5 @@
+Cart:
+	Endpoint:
+		return ok
+	!type wheel:
+		numSpoke<:int
